@@ -1,7 +1,7 @@
 # web-2lab
 Лабораторная работа №2 — To-Do List
 
-Репозиторий: https://github.com/Ash7428/web-2lab
+
 Деплой: https://ash7428.github.io/web-2lab/
 
 Функционал:
